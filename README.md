@@ -23,5 +23,5 @@ _Extra points for having pictures of the films and the main characters on each d
 ### Technical Requirements
 
 - Angular 13.
-- Feel free to use a library for styling and UI components.
+- Material Design: https://material.angular.io/ 
 - The app should be deployed and running on the cloud (you can use your preferred host)
