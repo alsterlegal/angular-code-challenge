@@ -25,3 +25,8 @@ _Extra points for having pictures of the films and the main characters on each d
 - Angular 13.
 - Material Design: https://material.angular.io/ 
 - The app should be deployed and running on the cloud (you can use your preferred host)
+
+### Nice to Have
+
+- Descriptive and understandable commit history, based on features
+- Self-explanatory code
